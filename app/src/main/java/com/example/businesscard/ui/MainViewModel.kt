@@ -27,5 +27,4 @@ class MainViewModelFactory(private val repository: BusinessCardRepository) :
         }
         throw IllegalArgumentException("Unknown ViewModel class")
     }
-
 }

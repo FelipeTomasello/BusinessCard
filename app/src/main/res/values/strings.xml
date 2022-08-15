@@ -9,4 +9,6 @@
     <string name="label_work">Empresa</string>
     <string name="label_cor">Cor</string>
     <string name="label_ok">Confirmar</string>
+    <string name="label_show_success">Cartao cadastrado com sucesso</string>
+    <string name="label_share">Compartilhar</string>
 </resources>
